@@ -1,7 +1,7 @@
 # CSCE4110
 Algorithm
 
-Closed/Opened Box Switching Assignment – CSCE 4110: Algorithms
+### Closed/Opened Box Switching Assignment – CSCE 4110: Algorithms
 
 - Designed an algorithm using C++ to check how many boxes will be opened after in iteration with n boxes initiated as closed. 
 
